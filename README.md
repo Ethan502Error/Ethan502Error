@@ -1,5 +1,5 @@
 <div class="myProfile" align="center">
-  <p class="greeting" style="float: left;"> :guardsman: Welcome to my profile :balloon: </p>
+  <h3 class="greeting" style="float: left;"> :guardsman: Welcome to my profile :balloon: </h3>
   <p class="myInfo" style="float: left;"> :sandwich: &nbsp;&nbsp; :zzz: &nbsp;&nbsp; :computer: &nbsp;&nbsp; :octocat: </p>
   <p class="mySkills" style="float:left;">
     <img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbsp;
