@@ -1,6 +1,6 @@
 <div class="myProfile" align="center">
-  <h3 class="greeting" style="float: left;"> :guardsman: &nbsp &nbsp &nbsp Welcome to my profile &nbsp &nbsp &nbsp :balloon: </h3>
-  <p class="myInfo" style="float: left;"> :sandwich: &nbsp;&nbsp; :zzz: &nbsp;&nbsp; :computer: &nbsp;&nbsp; :octocat: </p>
+  <h3 class="greeting" style="float: left;"> :guardsman: &nbsp; &nbsp; &nbsp; Welcome to my profile &nbsp; &nbsp; &nbsp; :balloon: </h3>
+  <p class="myInfo" style="float: left;"> :sandwich: &nbsp;&nbsp; :zzz: &nbsp;&nbsp; :computer: &nbsp;&nbsp; :octocat: &nbsp;&nbsp; </p>
   <p class="mySkills" style="float:left;">
     <img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbsp;
     <img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />&nbsp;&nbsp;
