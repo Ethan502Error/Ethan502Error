@@ -21,11 +21,11 @@
       显示私人项目提交记录
     -->
     <a>
-      <img src="https://github-readme-stats.vercel.app/api?username=recofepl&cache_seconds=43200&show_icons=true&theme=vue&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kerasi&cache_seconds=43200&show_icons=true&theme=vue&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" />
     </a>
     <!-- 善用框架和开发语言 -->
     <a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recofepl&layout=compact&hide_border=true&theme=vue" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerasi&layout=compact&hide_border=true&theme=vue" />
     </a>
   </div>
 </div>
