@@ -10,22 +10,4 @@
     <img height="22" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;&nbsp;
     <img height="22" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp;&nbsp;
   </p>
-  <div class="myStatus">
-    <!--
-      本地缓存 12 小时
-      展示图标
-      采用 Vue 主题颜色
-      隐藏外边框
-      隐藏主题标题
-      显示所有的记录
-      显示私人项目提交记录
-    -->
-    <a>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kerasi&cache_seconds=43200&show_icons=true&theme=vue&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" />
-    </a>
-    <!-- 善用框架和开发语言 -->
-    <a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerasi&layout=compact&hide_border=true&theme=vue" />
-    </a>
-  </div>
 </div>
