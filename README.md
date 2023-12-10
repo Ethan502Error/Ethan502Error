@@ -1,5 +1,5 @@
 <div class="myProfile" align="center">
-  <h3 class="greeting" style="float: left;"> :guardsman: &nbsp; &nbsp; &nbsp; Welcome to my profile &nbsp; &nbsp; &nbsp; :balloon: </h3>
+  <h3 class="greeting" style="float: left;"> 🎄 &nbsp; &nbsp; &nbsp; Welcome to my profile &nbsp; &nbsp; &nbsp; 🎁 </h3>
   <div class="myInfo" style="float: left;height: 30px;line-height: 30px;">
     <p>:sandwich: &nbsp;&nbsp; :zzz: &nbsp;&nbsp; :computer: &nbsp;&nbsp; :octocat: &nbsp;&nbsp;</p>
   </div>
